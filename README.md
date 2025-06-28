@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps and Cloud engineer from India</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/99405ec239ce5587151b63a7a75f866d80239afaa9365c0160fc539abd460bb8/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="DevOps GIF" width="600"/>
 </p>
 
 <p align="left">
@@ -36,6 +36,21 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  <!-- SGLang logo (corrected URL) -->
+  <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/147780389?s=48&v=4" alt="SGLang" width="40" height="40"/>
+  </a>
+
+  <!-- Existing tools -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -55,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
