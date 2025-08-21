@@ -45,12 +45,9 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
-  <!-- SGLang logo (corrected URL) -->
   <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/147780389?s=48&v=4" alt="SGLang" width="40" height="40"/>
   </a>
-
-  <!-- Existing tools -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -67,7 +64,10 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.studio/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-1.webcatalog.io/catalog/project-idx/project-idx-icon-filled-256.webp?v=1744242815085" alt="Firebase Studio" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
