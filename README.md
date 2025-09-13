@@ -111,8 +111,14 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://opal.withgoogle.com/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*t1OlSX4N0GRPERN64bcCTA.jpeg" alt="Opal by Google" width="40" height="40"/>
   </a>
   <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139423088?s=200&v=4" alt="OpenRouter" width="40" height="40" />
