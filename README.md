@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=prathamp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prathamp-dev" />
 </p>
 
-- 🔭 I’m currently working on [Bandhutva](https://github.com/PrathamP-dev/Bandhutva)
+- 🔭 I’m currently working on [Bandhutva](https://github.com/PrathamP-dev/Bandhutva) & [LexSight_AI](https://github.com/PrathamP-dev/LexSight_AI)
 
 - 👨‍💻 All of my projects are available at [github.com/PrathamP-dev](https://github.com/PrathamP-dev)
 
