@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Working on **Bandhutva** & **LexSight_AI**
+###  About Me
+- 🔭 Working on **[Bandhutva](https://github.com/PrathamP-dev/Bandhutva)** & **[LexSight_AI](https://github.com/PrathamP-dev/LexSight_AI)**
 - 👨‍💻 Projects: https://github.com/PrathamP-dev  
-- 📝 Writing on LinkedIn  
+- 📝 Writing on **[LinkedIn](https://www.linkedin.com/in/pratham-p-sharma)** 
 - 💬 Ask me about **DevOps & Cloud Computing**  
 - 📫 Email: **Prathamp.sharma.02@gmail.com**  
 - 📄 Portfolio: https://pratham-pujya-sharma.netlify.app  
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 <p>
   <a href="https://linkedin.com/in/pratham-p-sharma">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 <p align="left">
 
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
